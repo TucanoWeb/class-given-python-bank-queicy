@@ -1,16 +1,17 @@
-### Banco Queicy
+### Queicy's Bank (Class Given)
 
-- Modularização de funções com baixo acoplamento e alta coesão utilizando banco de dados SQLite.
+
+- Modularization of functions with low coupling and greater cohesion using sqlite database
 
 **GET STARTER**
 
-1 - Crie o ambiente virtual. No caso do VSCode, utilize o comando abaixo:
+1 - Create the environment. In VSCode, use the command below:
 
 ```python
 python -m venv nome_env
 ```
 
-2 - Ative o ambiente virtual
+2 - Active the environment:
 
 ```bash
 cd .\project1\Scripts\
@@ -20,13 +21,13 @@ cd .\project1\Scripts\
 .\active\
 ```
 
-3 - Volte ao diretório raiz do projeto e faça a instalação das dependências
+3 - Go back to the root directory and make the dependencies installation:
 
 ```python
 pip install -r requeriments.txt
 ```
 
-4 - Agora, basta retornar executar a aplicação
+4 - Run the app:
 
 ```python
 python .\app.py
